@@ -84,7 +84,7 @@ TWITCH_CLIENT_ID = 'cplf97vljjq97hhjtwpqnru78f5up6'
 TWITCH_CLIENT_SECRET = 'l4kf4uea2ghejo3t9tq50senp5hbth'
 CHANNEL_ID = 1090826565270642698  # ID del canal de Discord
 STREAMERS = ['pablitorelojero', 'selkie_', 'xtomiiii']
-DISCORD_TOKEN = 'MTMxODEzOTg5OTQzMzQ1MTU4MQ.GJla6F.HQ7Xg4yJIQW25Ejc6W2dVT2rMkRkPi1MxA2tZA'
+DISCORD_TOKEN = ''
 
 intents = discord.Intents.default()
 intents.message_content = True
